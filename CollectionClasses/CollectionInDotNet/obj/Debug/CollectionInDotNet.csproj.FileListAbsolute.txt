@@ -1,0 +1,7 @@
+D:\DotNETBatch2021\ConsoleApps\CollectionInDotNet\CollectionInDotNet\bin\Debug\CollectionInDotNet.exe.config
+D:\DotNETBatch2021\ConsoleApps\CollectionInDotNet\CollectionInDotNet\bin\Debug\CollectionInDotNet.exe
+D:\DotNETBatch2021\ConsoleApps\CollectionInDotNet\CollectionInDotNet\bin\Debug\CollectionInDotNet.pdb
+D:\DotNETBatch2021\ConsoleApps\CollectionInDotNet\CollectionInDotNet\obj\Debug\CollectionInDotNet.csprojAssemblyReference.cache
+D:\DotNETBatch2021\ConsoleApps\CollectionInDotNet\CollectionInDotNet\obj\Debug\CollectionInDotNet.csproj.CoreCompileInputs.cache
+D:\DotNETBatch2021\ConsoleApps\CollectionInDotNet\CollectionInDotNet\obj\Debug\CollectionInDotNet.exe
+D:\DotNETBatch2021\ConsoleApps\CollectionInDotNet\CollectionInDotNet\obj\Debug\CollectionInDotNet.pdb
